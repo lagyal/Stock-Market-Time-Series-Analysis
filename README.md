@@ -44,7 +44,7 @@
 </p>
 <p>2. Install dependencies <code>pip install -r requirements.txt</code></p>
 <p>
-  3. Run the notebook <code>jupyter notebook time_series_prophet.ipynb</code>
+  3. Run the notebook <code>jupyter notebook StockPricePrediction.ipynb</code>
 </p>
 <h3>Author</h3>
 <p>Developed by Lagyal — Data Science & Machine Learning Enthusiast.</p>
